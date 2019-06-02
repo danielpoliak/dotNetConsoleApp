@@ -1,0 +1,11 @@
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\bin\Debug\netcoreapp2.2\CheckLinksConsole.deps.json
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\bin\Debug\netcoreapp2.2\CheckLinksConsole.runtimeconfig.json
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\bin\Debug\netcoreapp2.2\CheckLinksConsole.runtimeconfig.dev.json
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\bin\Debug\netcoreapp2.2\CheckLinksConsole.dll
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\bin\Debug\netcoreapp2.2\CheckLinksConsole.pdb
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\obj\Debug\netcoreapp2.2\CheckLinksConsole.csprojAssemblyReference.cache
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\obj\Debug\netcoreapp2.2\CheckLinksConsole.csproj.CoreCompileInputs.cache
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\obj\Debug\netcoreapp2.2\CheckLinksConsole.AssemblyInfoInputs.cache
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\obj\Debug\netcoreapp2.2\CheckLinksConsole.AssemblyInfo.cs
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\obj\Debug\netcoreapp2.2\CheckLinksConsole.dll
+C:\Users\daniel.poliak\Desktop\CheckLinksConsole\obj\Debug\netcoreapp2.2\CheckLinksConsole.pdb
